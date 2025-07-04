@@ -48,17 +48,6 @@ The marketing team of a mid-sized European bank aims to answer:
 
 ---
 
-## 📁 Project Files
-
-| File | Description |
-|------|-------------|
-| `bank.csv` | Raw dataset containing campaign records |
-| `BankMarketing.pbix` | Power BI report file (to be submitted) |
-| `DAX_Measures.txt` | *(Optional)* Documentation of custom DAX formulas |
-| `README.md` | Project overview and documentation |
-
----
-
 ## 📈 Sample Visualizations  
 
 - 📌 **KPI Cards**: `TotalCalls`, `SubscriptionRate`, `AvgDuration`  
