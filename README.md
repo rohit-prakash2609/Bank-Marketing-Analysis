@@ -105,3 +105,5 @@ This project showcases data storytelling through interactive dashboards that hel
 Data Analytics Enthusiast | Retail Professional Transitioning to Data Analyst  
 📧 rohit4pro@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/rohit-prakash-3980867a)
+
+![image](https://github.com/user-attachments/assets/f56dffb6-5a17-470b-bf1c-3356e51a0b5e)
