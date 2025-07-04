@@ -95,6 +95,16 @@ The marketing team of a mid-sized European bank aims to answer:
 
 ---
 
+## 📢 Presentation  
+
+A live demo will walk through:
+
+- Dashboard navigation and filters  
+- DAX logic and data model  
+- Business insights and recommendations  
+
+---
+
 ## 🏁 Final Notes  
 
 This project showcases data storytelling through interactive dashboards that help drive informed decisions in financial marketing. For any suggestions, feel free to raise an issue or contribute.
@@ -105,4 +115,4 @@ This project showcases data storytelling through interactive dashboards that hel
 **Rohit Prakash**  
 Data Analytics Enthusiast | Retail Professional Transitioning to Data Analyst  
 📧 rohit4pro@gmail.com  
-🌐 LinkedIn
+🌐 [LinkedIn](https://www.linkedin.com/in/rohit-prakash-3980867a)
